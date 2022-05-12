@@ -65,6 +65,14 @@ In addition to many built-in AzureML features support, AzureML anywhere also sup
 
 ### [Limitations and known issues](./docs/limitations-and-known-issues.md)
 
+## Examples
+ 
+**Scripts**
+
+path|status|
+-|-
+[deploy-safe-rollout-kubernetes-online-endpoints.sh](deploy-safe-rollout-kubernetes-online-endpoints.sh)|[![deploy-safe-rollout-kubernetes-online-endpoints](https://github.com/Azure/azureml-examples/workflows/cli-scripts-deploy-safe-rollout-kubernetes-online-endpoints/badge.svg?branch=may-sdk-preview)](https://github.com/Azure/azureml-examples/actions/workflows/cli-scripts-deploy-safe-rollout-kubernetes-online-endpoints.yml)
+
 ## Support
 
 We are always looking for feedback on our current experiences and what we should work on next. If there is anything you would like us to prioritize, please feel free to suggest so via our [GitHub Issue Tracker](https://github.com/Azure/AML-Kubernetes/issues). You can submit a bug report, a feature suggestion or participate in discussions.
